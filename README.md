@@ -1,3 +1,7 @@
+#### Introduction 
+
+A kick-starter project of react.js which is using bebel for offline transformation from es6 to es5. 
+
 #### Set Up Environment 
 
 ```
