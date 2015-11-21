@@ -1,6 +1,6 @@
 #### Introduction 
 
-A kick-starter project of react.js which is using bebel for offline transformation from es6 to es5. 
+A kick-starter project of react.js which is using babel for offline transformation of es6 sources to es5. 
 
 #### Set Up Environment 
 
